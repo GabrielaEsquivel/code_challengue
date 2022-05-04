@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/GabrielaEsquivel/code_challengue#readme",
   "dependencies": {
+    "express": "^4.18.1",
     "jest": "^28.0.3"
   }
 }
