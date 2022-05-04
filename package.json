@@ -1,0 +1,19 @@
+{
+  "name": "code_challengue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielaEsquivel/code_challengue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielaEsquivel/code_challengue/issues"
+  },
+  "homepage": "https://github.com/GabrielaEsquivel/code_challengue#readme"
+}
