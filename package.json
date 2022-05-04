@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GabrielaEsquivel/code_challengue/issues"
   },
-  "homepage": "https://github.com/GabrielaEsquivel/code_challengue#readme"
+  "homepage": "https://github.com/GabrielaEsquivel/code_challengue#readme",
+  "dependencies": {
+    "jest": "^28.0.3"
+  }
 }
